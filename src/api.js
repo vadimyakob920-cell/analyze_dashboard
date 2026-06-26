@@ -1,5 +1,5 @@
 const API_BASE_URL = (
-  import.meta.env.VITE_API_BASE_URL ?? 'https://analyze-backend-bahh.onrender.com'
+  import.meta.env.VITE_API_BASE_URL ?? 'https://analyze-backend-6paw.onrender.com'
 ).replace(/\/$/, '');
 
 const REQUEST_TIMEOUT_MS = 120000;
